@@ -1,2 +1,2 @@
 # SoftwareEngineeringProject
-Software Engineering Project
+Raspberry Pi Motion Sensor Security System with SMS Alert
